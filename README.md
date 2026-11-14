@@ -26,7 +26,6 @@ I'm **Leo Vidovic**, a **Discord Developer & Web Designer**. I build custom Disc
 Want a Discord server, a bot or a website? Feel free to reach out:
 
 - 🤝 Team: [Bitpair](https://bitpair.dev) ([info@bitpair.dev](mailto:info@bitpair.dev))
-- 🌍 Portfolio: [leo-vidovic.pages.dev](https://leo-vidovic.pages.dev)
 - 📧 Email: [vidovicleobusiness@gmail.com](mailto:vidovicleobusiness@gmail.com)
 - 💬 Discord: [l3o.exe](https://discord.com/users/905106293868613673)
 - 📸 Instagram: [@leo_vidovicc](https://www.instagram.com/leo_vidovicc/)
