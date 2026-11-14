@@ -19,12 +19,13 @@ I'm **Leo Vidovic**, a **Discord Developer & Web Designer**. I build custom Disc
 
 - **Ferkic Bot**: Discord bot for a Kick streamer with live alerts, moderation and giveaways
 - **XBot**: multi-server Discord bot with music, server protection, levels and 5 languages
-- **[Tea Hair & Makeup](https://tea-hair-makeup.pages.dev)**: website for a make-up artist and hairstylist with online booking
+- **[Kalimero023](https://kalimero023.com)**: website for a Kick streamer with a stream countdown, schedule, giveaways and an admin panel
 
 ## Get in Touch 📫
 
 Want a Discord server, a bot or a website? Feel free to reach out:
 
+- 🤝 Team: [Bitpair](https://bitpair.dev) ([info@bitpair.dev](mailto:info@bitpair.dev))
 - 🌍 Portfolio: [leo-vidovic.pages.dev](https://leo-vidovic.pages.dev)
 - 📧 Email: [vidovicleobusiness@gmail.com](mailto:vidovicleobusiness@gmail.com)
 - 💬 Discord: [l3o.exe](https://discord.com/users/905106293868613673)
